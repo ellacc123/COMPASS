@@ -1,7 +1,7 @@
 # Knowledge-Gap-Detection-Engine
 An ML system that automates knowledge gap detection for research team onboarding. This is part of ongoing research project, and code/logic cannot be disclosed.
 
-Link (if doesn't work scroll down for screenshots):
+Link (currently unavailable):
 
 Process:
 
