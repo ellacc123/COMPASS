@@ -1,9 +1,7 @@
 # Knowledge-Gap-Detection-Engine
 An ML system that automates knowledge gap detection for research team onboarding. This is part of ongoing research project, and code/logic cannot be disclosed.
 
-Link (if doesn't work scroll down for screenshots): http://playfair.cs.washington.edu:8590
-
-<img src="Symposium.png" alt="Presentation" width="200">
+Link (if doesn't work scroll down for screenshots):
 
 Process:
 
